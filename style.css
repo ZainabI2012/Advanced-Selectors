@@ -1,0 +1,19 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-color: blue;
+    color:cornflowerblue;
+}
+h1{
+    color:darkblue;
+}
+a{color:blueviolet;
+text-decoration:none;
+}
+a:hover{
+    color:aqua}
+    ul>li{font-weight:bold;}
+    h1+p{background-color:aquamarine;
+    padding: 10px;
+border-radius: 15px;}
+ul li:hover{color:beige}
+    
